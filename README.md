@@ -15,9 +15,9 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 * <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%202)
 
-* <b>Day 3</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%203)
+* <b>Day 3</b> - [Control Flow and Logical Operators](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%203)
 
-* <b>Day 4</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%204)
+* <b>Day 4</b> - [Randomisation and Python Lists](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%204)
 
 
 <p align="center">
