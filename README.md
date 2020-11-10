@@ -15,6 +15,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 * <b>Day 2</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%202)
 
+* <b>Day 3</b> - [Understanding Data Types and How to Manipulate Strings](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%203)
+
 
 <p align="center">
 Please ⭐ this repository if you loved it !
