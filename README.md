@@ -19,6 +19,7 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 * <b>Day 4</b> - [Randomisation and Python Lists](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%204)
 
+* <b>Day 5</b> - [Python Loops](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%205)
 
 <p align="center">
 Please ⭐ this repository if you loved it !
