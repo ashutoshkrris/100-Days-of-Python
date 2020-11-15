@@ -27,6 +27,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 * <b>Day 8</b> - [Hangman](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%208)
 
+* <b>Day 9</b> - [Hangman](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%209)
+
 <p align="center">
 Please ⭐ this repository if you loved it !
 <br>
