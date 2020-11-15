@@ -21,9 +21,11 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 * <b>Day 5</b> - [Python Loops](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%205)
 
-* <b>Day 5</b> - [Python Functions & Karel](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%206)
+* <b>Day 6</b> - [Python Functions & Karel](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%206)
 
-* <b>Day 5</b> - [Hangman](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%207)
+* <b>Day 7</b> - [Hangman](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%207)
+
+* <b>Day 8</b> - [Hangman](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%208)
 
 <p align="center">
 Please ⭐ this repository if you loved it !
