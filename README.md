@@ -29,6 +29,12 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 * <b>Day 9</b> - [Dictionaries, Nesting and the Secret Auction](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%209)
 
+* <b>Day 10</b> - [Function Return Values and the Calculator Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2010)
+
+* <b>Day 11</b> - [Blackjack Capstone Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2011)
+
+* <b>Day 12</b> - [Scope and Namespacing in Python](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2012)
+
 <p align="center">
 Please ⭐ this repository if you loved it !
 <br>
