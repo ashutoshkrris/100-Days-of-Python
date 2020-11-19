@@ -35,6 +35,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 * <b>Day 12</b> - [Scope and Namespacing in Python](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2012)
 
+* <b>Day 13</b> - [Debugging: How to Find and Fix Errors in your Code](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2013)
+
 <p align="center">
 Please ⭐ this repository if you loved it !
 <br>
