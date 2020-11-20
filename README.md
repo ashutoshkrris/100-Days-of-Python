@@ -37,6 +37,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 * <b>Day 13</b> - [Debugging: How to Find and Fix Errors in your Code](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2013)
 
+* <b>Day 14</b> - [Higher Lower Game Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2014)
+
 <p align="center">
 Please ⭐ this repository if you loved it !
 <br>
