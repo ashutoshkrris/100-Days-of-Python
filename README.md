@@ -41,6 +41,12 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 * <b>Day 15</b> - [Local Development Environment Setup & the Coffee Machine](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2015)
 
+* <b>Day 16</b> - [Object Oriented Programming (OOP)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2016)
+
+* <b>Day 17</b> - [The Quiz Project & the Benefits of OOP](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2017)
+
+* <b>Day 18</b> - [Turtle & the Graphical User Interface (GUI)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2018)
+
 <p align="center">
 Please ⭐ this repository if you loved it !
 <br>
