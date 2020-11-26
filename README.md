@@ -49,6 +49,7 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 19</b> - [Instances, State and Higher Order Functions](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2019)
 
+- <b>Day 20</b> - [Build the Snake Game Part 1: Animation & Coordinates](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2020)
 
 <p align="center">
 Please ⭐ this repository if you loved it !
