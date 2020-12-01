@@ -51,8 +51,26 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 20</b> - [Build the Snake Game Part 1: Animation & Coordinates](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2020)
 
+- <b>Day 21</b> - [Build the Snake Game Part 2: Inheritance & List Slicing](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2021)
+
+- <b>Day 22</b> - [Build Pong: The Famous Arcade Game](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2022)
+
+- <b>Day 23</b> - [ The Turtle Crossing Capstone Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2023)
+
+- <b>Day 24</b> - [Files, Directories and Paths](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2024)
+
+- <b>Day 25</b> - [Working with CSV Data and the Pandas Library](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2025)
+
+<p align="center">
+Last Updated : Dec. 1, 2020
+</p>
+
 <p align="center">
 Please ⭐ this repository if you loved it !
 <br>
 < Happy Coding />
+<br>
+<b>Ashutosh Krishna<b>
+<br>
+<a href="https://ashutoshkrris.herokuapp.com">Portfolio</a> | <a href="https://github.com/ashutoshkrris">Github</a> | <a href="https://ashutoshkrris.medium.com">Medium</a>
 </p>
