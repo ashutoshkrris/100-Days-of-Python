@@ -61,6 +61,11 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 25</b> - [Working with CSV Data and the Pandas Library](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2025)
 
+- <b>Day 26</b> - [List Comprehension and the NATO Alphabet](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2026)
+
+
+
+
 <p align="center">
 Last Updated : Dec. 1, 2020
 </p>
