@@ -63,6 +63,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 26</b> - [List Comprehension and the NATO Alphabet](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2026)
 
+- <b>Day 27</b> - [Tkinter, *args, **kwargs and Creating GUI Programs](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2027)
+
 <p align="center">
 Last Updated : Dec. 3, 2020
 </p>
