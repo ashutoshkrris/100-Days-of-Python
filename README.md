@@ -59,6 +59,9 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 24</b> - [Files, Directories and Paths](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2024)
 
+- <b>Day 25</b> - [Working with CSV Data and the Pandas Library](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2025)
+
+
 <p align="center">
 Last Updated : Dec. 3, 2020
 </p>
