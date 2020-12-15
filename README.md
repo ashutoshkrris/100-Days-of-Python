@@ -67,6 +67,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 28</b> - [Tkinter, Dynamic Typing and the Pomodoro GUI Application](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2028)
 
+- <b>Day 29</b> - [Building a Password Manager GUI App with Tkinter](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2029)
+
 <p align="center">
 Last Updated : Dec. 3, 2020
 </p>
