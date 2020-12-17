@@ -69,7 +69,9 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 29</b> - [Building a Password Manager GUI App with Tkinter](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2029)
 
-- <b>Day 30</b> - [Errors, Exceptions and JSON Data: Improving the Password](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2030)
+- <b>Day 30</b> - [Errors, Exceptions and JSON Data: Improving the Password Manager](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2030)
+
+- <b>Day 31</b> - [Flash Card App Capstone Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2031)
 
 <p align="center">
 Last Updated : Dec. 3, 2020
