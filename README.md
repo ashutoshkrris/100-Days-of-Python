@@ -73,6 +73,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 31</b> - [Flash Card App Capstone Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2031)
 
+- <b>Day 32</b> - [Send Email (smtplib) & Manage Dates (datetime)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2032)
+
 <p align="center">
 Last Updated : Dec. 3, 2020
 </p>
