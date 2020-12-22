@@ -81,6 +81,9 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 35</b> - [Keys, Authentication & Environment Variables: Send SMS](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2035)
 
+- <b>Day 36</b> - [Stock Trading News Alert Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2036)
+
+
 <p align="center">
 Last Updated : Dec. 20, 2020
 </p>
