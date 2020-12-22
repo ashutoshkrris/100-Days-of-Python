@@ -83,6 +83,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 36</b> - [Stock Trading News Alert Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2036)
 
+- <b>Day 37</b> - [Habit Tracking Project: API Post Requests & Headers](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2037)
+
 
 <p align="center">
 Last Updated : Dec. 20, 2020
