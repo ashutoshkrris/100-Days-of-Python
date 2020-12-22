@@ -79,6 +79,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 34</b> - [API Practice - Creating a GUI Quiz App](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2034)
 
+- <b>Day 35</b> - [Keys, Authentication & Environment Variables: Send SMS](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2035)
+
 <p align="center">
 Last Updated : Dec. 20, 2020
 </p>
