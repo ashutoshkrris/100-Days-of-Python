@@ -89,6 +89,7 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 39</b> - [Capstone Part 1: Flight Deal Finder](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2039)
 
+- <b>Day 40</b> - [Capstone Part 2: Flight Club](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2040)
 
 <p align="center">
 Last Updated : Dec. 22, 2020
