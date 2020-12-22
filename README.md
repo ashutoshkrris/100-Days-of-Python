@@ -87,8 +87,11 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 38</b> - [Workout Tracking Using Google Sheets](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2038)
 
+- <b>Day 39</b> - [Capstone Part 1: Flight Deal Finder](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2039)
+
+
 <p align="center">
-Last Updated : Dec. 20, 2020
+Last Updated : Dec. 22, 2020
 </p>
 
 <p align="center">
