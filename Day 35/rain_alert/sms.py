@@ -15,8 +15,8 @@ def send_sms():
     message = client.messages \
                     .create(
                         body="It'll 🌧 today. Be sure to bring an ☂.",
-                        from_='+12518621469',
-                        to='+919031760771'
+                        from_='',
+                        to=''
                     )
 
     print(message.status)
