@@ -93,6 +93,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 41</b> - [Introduction to HTML](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2041)
 
+- <b>Day 42</b> - [Intermediate HTML](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2042)
+
 <p align="center">
 Last Updated : Dec. 22, 2020
 </p>
