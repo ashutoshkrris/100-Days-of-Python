@@ -99,6 +99,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 44</b> - [Intermediate CSS](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2044)
 
+- <b>Day 45</b> - [Web Scraping with Beautiful Soup](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2045)
+
 <p align="center">
 Last Updated : Dec. 22, 2020
 </p>
