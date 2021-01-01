@@ -1,0 +1,25 @@
+h1 {
+  color: red;
+  font-size: 200px;
+}
+
+/* TAG SELECTOR */
+
+/* img {
+  background-color: red;
+} */
+
+/* CLASS SELECTOR */
+
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+/* ID SELECTORS */
+#heading{
+    color: blue
+}
