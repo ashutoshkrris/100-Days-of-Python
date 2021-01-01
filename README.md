@@ -95,6 +95,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 42</b> - [Intermediate HTML](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2042)
 
+- <b>Day 43</b> - [Introduction to CSS](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2043)
+
 <p align="center">
 Last Updated : Dec. 22, 2020
 </p>
