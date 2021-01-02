@@ -103,6 +103,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 46</b> - [Create a Spotify Playlist using the Musical Time Machine](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2046)
 
+- <b>Day 47</b> - [Create an Automated Amazon Price Tracker](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2047)
+
 <p align="center">
 Last Updated : Dec. 22, 2020
 </p>
