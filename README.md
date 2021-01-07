@@ -105,6 +105,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 47</b> - [Create an Automated Amazon Price Tracker](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2047)
 
+- <b>Day 48</b> - [Selenium Webdriver Browser and Game Playing Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2048)
+
 <p align="center">
 Last Updated : Dec. 22, 2020
 </p>
