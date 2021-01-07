@@ -113,6 +113,7 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 51</b> - [Internet Speed Twitter Complaint Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2051)
 
+- <b>Day 52</b> - [Instagram Follower Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2052)
 
 <p align="center">
 Last Updated : Jan. 07, 2021
