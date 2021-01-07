@@ -115,6 +115,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 52</b> - [Instagram Follower Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2052)
 
+- <b>Day 53</b> - [Data Entry Job Automation](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2053)
+
 <p align="center">
 Last Updated : Jan. 07, 2021
 </p>
