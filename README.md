@@ -111,6 +111,9 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 50</b> - [Auto Tinder Swiping Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2050)
 
+- <b>Day 51</b> - [Internet Speed Twitter Complaint Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2051)
+
+
 <p align="center">
 Last Updated : Jan. 07, 2021
 </p>
