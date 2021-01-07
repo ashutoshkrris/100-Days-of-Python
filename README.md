@@ -117,6 +117,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 53</b> - [Data Entry Job Automation](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2053)
 
+- <b>Day 54</b> - [Introduction to Web Development with Flask](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2054)
+
 <p align="center">
 Last Updated : Jan. 07, 2021
 </p>
