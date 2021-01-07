@@ -109,6 +109,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 49</b> - [Automating Job Applications on LinkedIn](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2049)
 
+- <b>Day 50</b> - [Auto Tinder Swiping Bot](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2050)
+
 <p align="center">
 Last Updated : Jan. 07, 2021
 </p>
