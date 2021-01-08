@@ -119,6 +119,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 54</b> - [Introduction to Web Development with Flask](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2054)
 
+- <b>Day 55</b> - [HTML & URL Parsing in Flask and the Higher Lower Game](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2055)
+
 <p align="center">
 Last Updated : Jan. 07, 2021
 </p>
