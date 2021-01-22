@@ -123,8 +123,10 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 56</b> - [Rendering HTML/Static files and Using Website Templates](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2056)
 
+- <b>Day 57</b> - [Templating with Jinja in Flask Applications](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2057)
+
 <p align="center">
-Last Updated : Jan. 21, 2021
+Last Updated : Jan. 22, 2021
 </p>
 
 <p align="center">
