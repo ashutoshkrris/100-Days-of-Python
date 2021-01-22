@@ -125,6 +125,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 57</b> - [Templating with Jinja in Flask Applications](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2057)
 
+- <b>Day 58</b> - [Bootstrap](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2058)
+
 <p align="center">
 Last Updated : Jan. 22, 2021
 </p>
