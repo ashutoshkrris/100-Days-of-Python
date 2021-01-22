@@ -127,6 +127,10 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 58</b> - [Bootstrap](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2058)
 
+- <b>Day 59</b> - [Blog Capstone Project Part 2 - Adding Styling](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2059)
+
+- <b>Day 60</b> - [POST Requests with Flask and HTML Forms](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2060)
+
 <p align="center">
 Last Updated : Jan. 22, 2021
 </p>
