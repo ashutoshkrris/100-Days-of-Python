@@ -133,6 +133,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 61</b> - [Building Advanced Forms with Flask-WTForms](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2061)
 
+- <b>Day 62</b> - [Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2062)
+
 <p align="center">
 Last Updated : Jan. 23, 2021
 </p>
