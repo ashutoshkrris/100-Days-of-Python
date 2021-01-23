@@ -131,8 +131,10 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 60</b> - [POST Requests with Flask and HTML Forms](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2060)
 
+- <b>Day 61</b> - [Building Advanced Forms with Flask-WTForms](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2061)
+
 <p align="center">
-Last Updated : Jan. 22, 2021
+Last Updated : Jan. 23, 2021
 </p>
 
 <p align="center">
