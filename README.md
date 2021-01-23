@@ -135,6 +135,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 62</b> - [Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2062)
 
+- <b>Day 63</b> - [Databases and with SQLite and SQLAlchemy](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2063)
+
 <p align="center">
 Last Updated : Jan. 23, 2021
 </p>
