@@ -139,6 +139,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 64</b> - [My Top 10 Movies Website](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2064)
 
+- <b>Day 65</b> - [How to Create a Website that People will Love](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2065)
+
 <p align="center">
 Last Updated : Jan. 23, 2021
 </p>
