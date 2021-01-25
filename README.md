@@ -169,6 +169,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 79</b> - [The Tragic Discovery of Handwashing: t-Tests & Distributions](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2079)
 
+- <b>Day 80</b> - [Capstone Project - Predict House Prices](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2080)
+
 <p align="center">
 Last Updated : Jan. 25, 2021
 </p>
