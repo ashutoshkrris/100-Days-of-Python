@@ -167,6 +167,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 78</b> - [Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2078)
 
+- <b>Day 79</b> - [The Tragic Discovery of Handwashing: t-Tests & Distributions](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2079)
+
 <p align="center">
 Last Updated : Jan. 25, 2021
 </p>
