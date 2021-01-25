@@ -165,6 +165,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 77</b> - [Linear Regression and Data Visualisation with Seaborn](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2077)
 
+- <b>Day 78</b> - [Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2078)
+
 <p align="center">
 Last Updated : Jan. 25, 2021
 </p>
