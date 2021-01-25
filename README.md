@@ -155,6 +155,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 72</b> - [Data Visualisation with Matplotlib: Programming Languages](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2072)
 
+- <b>Day 73</b> - [Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2073)
+
 <p align="center">
 Last Updated : Jan. 25, 2021
 </p>
