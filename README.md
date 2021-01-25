@@ -149,6 +149,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 69</b> - [Blog Capstone Project Part 4 - Adding Users](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2069)
 
+- <b>Day 70</b> - [Deploying Your Web Application with Digital Ocean](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2070)
+
 <p align="center">
 Last Updated : Jan. 25, 2021
 </p>
