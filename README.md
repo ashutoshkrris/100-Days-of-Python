@@ -145,8 +145,10 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 67</b> - [Blog Capstone Project Part 3 - RESTful Routing](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2067)
 
+- <b>Day 68</b> - [Authentication with Flask](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2068)
+
 <p align="center">
-Last Updated : Jan. 23, 2021
+Last Updated : Jan. 25, 2021
 </p>
 
 <p align="center">
