@@ -163,9 +163,7 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 76</b> - [Computation with NumPy and N-Dimensional Arrays](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2076)
 
-- <b>Day 77</b> - [Computation with NumPy and N-Dimensional Arrays](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2077)
-
-- <b>Day 78</b> - [Linear Regression and Data Visualisation with Seaborn](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2078)
+- <b>Day 77</b> - [Linear Regression and Data Visualisation with Seaborn](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2077)
 
 <p align="center">
 Last Updated : Jan. 25, 2021
