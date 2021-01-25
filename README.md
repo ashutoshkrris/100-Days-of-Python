@@ -161,6 +161,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 75</b> - [Beautiful Plotly Charts & Analysing the Android App Store](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2075)
 
+- <b>Day 76</b> - [Computation with NumPy and N-Dimensional Arrays](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2076)
+
 <p align="center">
 Last Updated : Jan. 25, 2021
 </p>
