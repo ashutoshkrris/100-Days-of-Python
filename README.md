@@ -143,7 +143,7 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 66</b> - [Building Your Own API with RESTful Routing](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2066)
 
-- <b>Day 66</b> - [Blog Capstone Project Part 3 - RESTful Routing](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2066)
+- <b>Day 67</b> - [Blog Capstone Project Part 3 - RESTful Routing](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2067)
 
 <p align="center">
 Last Updated : Jan. 23, 2021
