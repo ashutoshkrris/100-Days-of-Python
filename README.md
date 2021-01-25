@@ -157,6 +157,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 73</b> - [Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2073)
 
+- <b>Day 74</b> - [Google Trends Data: Resampling and Visualising Time Series](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2074)
+
 <p align="center">
 Last Updated : Jan. 25, 2021
 </p>
