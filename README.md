@@ -151,6 +151,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 70</b> - [Deploying Your Web Application with Digital Ocean](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2070)
 
+- <b>Day 71</b> - [Data Exploration with Pandas: College Major v.s. Your Salary](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2071)
+
 <p align="center">
 Last Updated : Jan. 25, 2021
 </p>
