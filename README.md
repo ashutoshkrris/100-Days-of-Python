@@ -159,6 +159,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 74</b> - [Google Trends Data: Resampling and Visualising Time Series](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2074)
 
+- <b>Day 75</b> - [Beautiful Plotly Charts & Analysing the Android App Store](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2075)
+
 <p align="center">
 Last Updated : Jan. 25, 2021
 </p>
