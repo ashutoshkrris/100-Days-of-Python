@@ -171,8 +171,10 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 80</b> - [Capstone Project - Predict House Prices](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2080)
 
+- <b>Day 81</b> - [Professional Portfolio Project - (Python Scripting)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2080)
+
 <p align="center">
-Last Updated : Jan. 25, 2021
+Last Updated : Jan. 27, 2021
 </p>
 
 <p align="center">
