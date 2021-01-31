@@ -173,10 +173,12 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 81</b> - [Professional Portfolio Project - (Python Scripting)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2081)
 
-- <b>Day 82</b> - [Professional Portfolio Project - [Python Web Development]](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2082)
+- <b>Day 82</b> - [Professional Portfolio Project - (Python Web Development)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2082)
+
+- <b>Day 83</b> - [Professional Portfolio Project - (Python Scripting)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2083)
 
 <p align="center">
-Last Updated : Jan. 27, 2021
+Last Updated : Jan. 31, 2021
 </p>
 
 <p align="center">
