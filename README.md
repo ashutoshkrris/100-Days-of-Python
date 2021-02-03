@@ -179,6 +179,8 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 84</b> - [Professional Portfolio Project - (GUI)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2084)
 
+- <b>Day 85</b> - [Professional Portfolio Project - (GUI)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2085)
+
 <p align="center">
 Last Updated : Jan. 31, 2021
 </p>
