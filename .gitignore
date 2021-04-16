@@ -2,3 +2,7 @@ __pycache__
 settings.json
 .vscode
 .env
+*.log
+.DS_STORE
+.jovianrc
+.ipynb_checkpoints
