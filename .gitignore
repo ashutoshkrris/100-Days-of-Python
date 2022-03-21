@@ -6,3 +6,4 @@ settings.json
 .DS_STORE
 .jovianrc
 .ipynb_checkpoints
+env/
