@@ -186,7 +186,7 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 - <b>Day 87</b> - [Professional Portfolio Project - (Web Development)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2087)
 
 <p align="center">
-Last Updated : April. 15, 2021
+Last Updated : March 21, 2022
 </p>
 
 <p align="center">
@@ -196,5 +196,5 @@ Please ⭐ this repository if you loved it !
 <br>
 <b>Ashutosh Krishna<b>
 <br>
-<a href="https://ashutoshkrris.tk">Portfolio</a> | <a href="https://github.com/ashutoshkrris">Github</a> | <a href="https://ashutoshkrris.medium.com">Medium</a>
+<a href="https://ashutoshkrris.netlify.com">Portfolio</a> | <a href="https://github.com/ashutoshkrris">Github</a> | <a href="https://ashutoshkrris.medium.com">Medium</a>
 </p>
