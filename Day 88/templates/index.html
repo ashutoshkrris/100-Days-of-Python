@@ -1,0 +1,40 @@
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+{% block styles %}
+    {{ super() }}
+<link rel="stylesheet" href="{{url_for('static', filename='css/styles.css')}}">
+{% endblock %}
+
+{% block title %}Todo List{% endblock %}
+
+{% block content %}
+
+<div class="container">
+  <div class="row d-flex align-items-center">
+    <div style="width: 50%;margin: auto;" class="">
+      <h1>Todo List</h1>
+	  <table class="table text-center">
+          <thead>
+              <td> </td>
+              <td>To Do</td>
+          </thead>
+          {% for todo in todo_list: %}
+          <tr>
+              <td><a href="{{ url_for('check', id=todo.id) }}"><input type="checkbox" {% if todo.done: %} checked {% endif %}></a></td>
+              {% if todo.done: %}
+              <td><s>{{ todo.name }}</s></td>
+              {% else: %}
+              <td>{{ todo.name }}</td>
+              {% endif %}
+              <td><a href="{{ url_for('delete', id=todo.id) }}">❌</a></td>
+          </tr>
+          {% endfor %}
+  	  </table>
+
+        {{ wtf.quick_form(form, novalidate=True) }}
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}
