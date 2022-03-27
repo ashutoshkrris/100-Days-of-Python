@@ -187,10 +187,13 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 88</b> - [Professional Portfolio Project - (Web Development)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2088)
 
-- <b>Day 89</b> - [Professional Portfolio Project - (GUI Desktop App)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2089)
+- <b>Day 89</b> - [Professional Portfolio Project - (GUI Desktop App)](https://github.com/
+ashutoshkrris/100-Days-of-Python/tree/master/Day%2089)
+
+- <b>Day 90</b> - [Professional Portfolio Project - (HTTP Requests & APIs)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2090)
 
 <p align="center">
-Last Updated : March 22, 2022
+Last Updated : March 27, 2022
 </p>
 
 <p align="center">
