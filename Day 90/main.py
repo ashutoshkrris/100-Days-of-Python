@@ -18,7 +18,7 @@ with open("sample.pdf", "rb") as file:
 
 
 params = {
-    "key": "b9152bcb890847d0940f2a66b3522662",
+    "key": "", # Add Your Key Here
     "src": text,
     "hl": LANGUAGE,
     "v": SPEECH_VOICE
