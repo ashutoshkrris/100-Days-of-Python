@@ -193,8 +193,10 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 91</b> - [Professional Portfolio Project - (Image Processing & Data Science)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2091)
 
+- <b>Day 92</b> - [Professional Portfolio Project - (Web Scraping)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2092)
+
 <p align="center">
-Last Updated : March 28, 2022
+Last Updated : March 29, 2022
 </p>
 
 <p align="center">
