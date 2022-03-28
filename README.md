@@ -191,8 +191,10 @@ I <a href="https://raw.githubusercontent.com/ashutoshkrris/100-Days-of-Python/ma
 
 - <b>Day 90</b> - [Professional Portfolio Project - (HTTP Requests & APIs)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2090)
 
+- <b>Day 91</b> - [Professional Portfolio Project - (Image Processing & Data Science)](https://github.com/ashutoshkrris/100-Days-of-Python/tree/master/Day%2091)
+
 <p align="center">
-Last Updated : March 27, 2022
+Last Updated : March 28, 2022
 </p>
 
 <p align="center">
