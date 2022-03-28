@@ -1,0 +1,53 @@
+{% extends 'bootstrap/base.html' %} {% import "bootstrap/wtf.html" as wtf %} 
+{% block styles %} {{ super() }}
+<link
+  rel="stylesheet"
+  href="{{url_for('static', filename='css/styles.css')}}"
+/>
+{% endblock %} {% block title %}Colour Extract Tool{% endblock %} 
+{% block content %}
+
+<div class="container">
+  <div class="row d-flex align-items-center">
+    <div style="width: 50%; margin: auto" class="">
+      <h1 class="text-center">Colour Extract Tool</h1>
+      {% with messages = get_flashed_messages() %} 
+      {% if messages %} 
+      {% for message in messages %} 
+      {{ message }} 
+      {% endfor %} 
+      {% endif %} {% endwith %}
+
+      <form method="post" enctype="multipart/form-data">
+        <fieldset class="information">
+          <legend class="text-center" style="display: none;">Most Common Colors</legend>
+          <div>
+            <label for="imgFile"
+              >File to upload:
+              <input
+                type="file"
+                name="imgFile"
+                id="imgFile"
+                class="form-control"
+            /></label>
+          </div>
+          <br>
+          <div>
+            <label for="num_results">Number of colors:</label>
+            <input
+              type="text"
+              name="num_results"
+              id="num_results"
+              value="10"
+              class="form-control"
+            />
+          </div>
+        </fieldset>
+        <br>
+        <button class="bt btn-primary" type="submit">Get Colors</button>
+      </form>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
