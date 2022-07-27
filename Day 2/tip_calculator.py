@@ -8,7 +8,7 @@ tip_rate = input(
     "What percent of bill do you wish to pay as tip : 10, 12 or 15 ? ")
 try:
     amount = (float(bill)/int(persons)) * ((100+int(tip_rate))/100)
-    print(f"You need to pay ${round(amount,2)} per person.")
+    print(f'You need to pay ${"{:.2f}".format(amount)} per person.')
 
 except ValueError:
     print("Please enter float or integer values only.")
