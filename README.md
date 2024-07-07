@@ -1,5 +1,5 @@
 <h1 align="center"> 
-100 Days of Python
+100 Days of Python.
 </h1>
 <h5 align="center">
 Starting from : November 7, 2020
