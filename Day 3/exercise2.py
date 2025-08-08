@@ -14,17 +14,15 @@ height = input("Enter height in metres : ")
 weight = input("Enter weight in kgs : ")
 
 try:
-    bmi = round(float(weight)/(float(height)**2))
-
-    if bmi < 18.5:
-        print(f"Your BMI is {bmi} and you are underweight.")
-    elif bmi < 25:
-        print(f"Your BMI is {bmi} and you are normal.")
-    elif bmi < 30:
-        print(f"Your BMI is {bmi} and you are slightly overweight.")
-    elif bmi < 35:
-        print(f"Your BMI is {bmi} and you are obese.")
-    else:
-        print(f"Your BMI is {bmi} and you are clinically obese.")
+    BMI = float(float(weight)/(float(height)*float(height)))
+    print(BMI)
+    if BMI< 18.5:
+        print("you are underweight")
+    elif BMI<25:
+        print("you are Normalweight")
+    elif BMI <30:
+        print("you are Obese")
+    else :
+        print("you are clinically Obese")
 except ValueError:
-    print("Enter integer or float values only.")
+    print("please enter only float values")

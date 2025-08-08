@@ -7,8 +7,7 @@ persons = input("In how many persons is the bill to be splitted? ")
 tip_rate = input(
     "What percent of bill do you wish to pay as tip : 10, 12 or 15 ? ")
 try:
-    amount = (float(bill)/int(persons)) * ((100+int(tip_rate))/100)
-    print(f"You need to pay ${round(amount,2)} per person.")
-
+    share = ((float(bill)/int(persons))*(1+(float(tip_rate)/100)))
+    print("Each person should pay",round((share),2))
 except ValueError:
-    print("Please enter float or integer values only.")
+    print("please enter the value in correct format")

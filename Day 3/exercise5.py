@@ -14,26 +14,22 @@ name2 = input("What is their name? \n")
 
 # Write your code below this line 👇
 
-name_string = (name1+name2).lower()
+combined = (name1 + name2).lower()
 
-t = name_string.count("t")
-r = name_string.count("r")
-u = name_string.count("u")
-e = name_string.count("e")
+# Count TRUE letters
+t = combined.count("t")
+r = combined.count("r")
+u = combined.count("u")
+e1 = combined.count("e")
+true = t + r + u + e1
 
-l = name_string.count("l")
-o = name_string.count("o")
-v = name_string.count("v")
-e = name_string.count("e")
+# Count LOVE letters
+l = combined.count("l")
+o = combined.count("o")
+v = combined.count("v")
+e2 = combined.count("e")
+love = l + o + v + e2
 
-true = t+r+u+e
-love = l+o+v+e
+score = int(str(true) + str(love))
 
-true_love = int(str(true)+str(love))
-
-if true_love < 10 or true_love > 90:
-    print(f"Your score is {true_love}")
-elif 40 <= true_love <= 50:
-    print(f"Your score is {true_love}, you are alright together.")
-else:
-    print(f"Your score is {true_love}")
+print(f"Your love score is {score}")

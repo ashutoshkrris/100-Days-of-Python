@@ -13,7 +13,11 @@ weight = input("enter your weight in kg: ")
 
 # Write your code below this line 👇
 try:
-    bmi = float(weight)/(float(height)**2)
-    print(f"Your BMI is {bmi}.")
+    height = float(height)
+    weight = float(weight)
+    
+    bmi = weight / (height ** 2)
+    print("Your BMI is:", round(bmi, 2))
+    
 except ValueError:
-    print("Please enter integer or float values only.")
+    print("Invalid input. Please enter numeric values only.")

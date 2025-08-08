@@ -1,11 +1,11 @@
 #1. Create a greeting for your program.
-print("Hello there! Welcome to Band Generator.")
+print("welcome to Day 1 of 100 days of Python")
 
 #2. Ask the user for the city that they grew up in.
-city = input("Please tell us your city name. \n")
+city = input("In which city you grew in?\n")
 
 #3. Ask the user for the name of a pet.
-pet = input("Please tell us your pet's name. \n")
+pet = input("What is name of your pet? \n")
 
 #4. Combine the name of their city and pet and show them their band name.
 band_name = f"{city} {pet}"

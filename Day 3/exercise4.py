@@ -11,26 +11,33 @@ Pepperoni for Medium or Large Pizza: +$3
 Extra cheese for any size pizza: + $1
 '''
 
-size = input("Which size of pizza ? S, M or L : ")
-pepperoni = input("Do you want pepperoni? Y or N : ")
-cheese = input("Do you want extra cheese ? Y or N : ")
+size = input("Choose your pizza size (S/M/L): ").upper()
+add_pepperoni = input("Do you want pepperoni? (Y/N): ").upper()
+extra_cheese = input("Do you want extra cheese? (Y/N): ").upper()
 
 bill = 0
 
-if size == 'S':
+# Base price
+if size == "S":
     bill += 15
-elif size == 'M':
+elif size == "M":
     bill += 20
-else:
+elif size == "L":
     bill += 25
+else:
+    print("Invalid pizza size entered!")
+    exit()
 
-if pepperoni == 'Y':
-    if size == 'S':
+# Pepperoni
+if add_pepperoni == "Y":
+    if size == "S":
         bill += 2
     else:
         bill += 3
 
-if cheese == 'Y':
+# Extra cheese
+if extra_cheese == "Y":
     bill += 1
 
-print(f"Your total bill is {bill}.")
+print(f"Your final bill is: ${bill}")
+

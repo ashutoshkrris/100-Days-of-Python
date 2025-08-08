@@ -19,7 +19,7 @@ def jump():
     turn_left()
 
 while not at_goal():
-    if front_is_clear():
-        move()
-    else:
+    if wall_in_front():
         jump()
+    else:
+        move()

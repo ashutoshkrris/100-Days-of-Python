@@ -11,22 +11,25 @@ Possible if :
 - photo : + $3 
 '''
 
+print("Welcome to the Rollercoaster Ride!")
+
 height = int(input("What is your height in cms? : "))
+age = int(input("Please enter your age in years: "))
+photo = input("Do you want framed picture of your ride (Y/N): ").upper()
+
+price = 0
 
 if height >= 120:
-    bill = 0
-    age = int(input("How old are you ? : "))
-    if age <= 12:
-        bill += 5
+    if age < 12:
+        price += 5
     elif age < 18:
-        bill += 7
+        price += 7
     else:
-        bill += 12
+        price += 12
 
-    photo = input("Do you want photo? : ")
     if photo == "Y":
-        bill += 3
+        price += 3
 
-    print(f"Your total bill is {bill}.")
+    print(f"Total price for your ride is ${price}")
 else:
-    print("You are not eligible for the rollercoaster ride.")
+    print("Sorry! You must be at least 120 cm tall to ride.")

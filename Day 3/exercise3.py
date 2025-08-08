@@ -7,18 +7,19 @@ On every year that is evenly divisible by 4 **except** every year that is evenly
 '''
 
 try:
-    year = int(input("Enter year : "))
-
+    year = int(input("Please enter the year: "))
+    
     if year % 4 == 0:
         if year % 100 == 0:
             if year % 400 == 0:
-                print("Leap Year !")
+                print(f"The year {year} is a Leap Year")
             else:
-                print("Not a leap year !")
+                print(f"The year {year} is NOT a Leap Year")
         else:
-            print("Leap Year !")
+            print(f"The year {year} is a Leap Year")
     else:
-        print("Not a leap year !")
-
+        print(f"The year {year} is NOT a Leap Year")
+        
 except ValueError:
-    print("Enter integer values only.")
+    print("Please enter the year in integer format only.")
+

@@ -7,8 +7,7 @@ def turn_right():
     turn_left()
     turn_left()
 
-def complete():
-    move()
+def jump():
     turn_left()
     move()
     turn_right()
@@ -16,6 +15,9 @@ def complete():
     turn_right()
     move()
     turn_left()
-    
-for _ in range(6):
-    complete()
+
+while not at_goal():
+    if wall_in_front():
+        jump()
+    else:
+        move()
